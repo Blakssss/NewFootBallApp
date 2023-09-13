@@ -1,0 +1,14 @@
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\bin\Debug\net7.0\FootballAppNew.exe
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\bin\Debug\net7.0\FootballAppNew.deps.json
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\bin\Debug\net7.0\FootballAppNew.runtimeconfig.json
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\bin\Debug\net7.0\FootballAppNew.dll
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\bin\Debug\net7.0\FootballAppNew.pdb
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\obj\Debug\net7.0\FootballAppNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\obj\Debug\net7.0\FootballAppNew.AssemblyInfoInputs.cache
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\obj\Debug\net7.0\FootballAppNew.AssemblyInfo.cs
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\obj\Debug\net7.0\FootballAppNew.csproj.CoreCompileInputs.cache
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\obj\Debug\net7.0\FootballAppNew.dll
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\obj\Debug\net7.0\refint\FootballAppNew.dll
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\obj\Debug\net7.0\FootballAppNew.pdb
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\obj\Debug\net7.0\FootballAppNew.genruntimeconfig.cache
+C:\Users\mathi\RiderProjects\FootballAppNew\FootballAppNew\obj\Debug\net7.0\ref\FootballAppNew.dll
